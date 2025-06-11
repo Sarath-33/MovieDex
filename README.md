@@ -1,12 +1,35 @@
-# React + Vite
+# 🎬 MovieDex
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MovieDex is a sleek and modern movie discovery app built with **React**, powered by **Appwrite**, and styled using **Tailwind CSS**. It helps users explore and search for movies effortlessly with a clean and responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Real-time movie search
+- 🎨 Fully responsive UI using Tailwind CSS
+- ⚙️ Backend powered by Appwrite (Auth, DB, Storage)
+- ⚡ Built with Vite for lightning-fast performance
+- 🤖 Uses GitHub Copilot / Cursor AI for pair coding
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Frontend  | Backend    | Tools             |
+|-----------|------------|-------------------|
+| React     | Appwrite   | Git, GitHub       |
+| Vite      | Appwrite DB| GitHub Copilot    |
+| Tailwind  | Appwrite Auth | Cursor AI      |
+---
+
+
+## 📁 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Sarath-33/movie-app.git
+cd movie-app
+npm install
+npm run dev
